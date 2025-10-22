@@ -12,3 +12,7 @@ A simple multi-page website built entirely with **HTML5**, focusing on proper **
 ## Purpose
 
 The goal of this project is to build a clean HTML-Only website without styling.
+
+## Project URL
+
+https://github.com/DG-Lev/basic-html-website.git
