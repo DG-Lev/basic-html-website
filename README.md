@@ -15,4 +15,4 @@ The goal of this project is to build a clean HTML-Only website without styling.
 
 ## Project URL
 
-https://dg-lev.github.io/basic-html-website/
+https://roadmap.sh/projects/basic-html-website
